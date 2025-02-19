@@ -36,19 +36,31 @@ I am a **Python Backend Developer** passionate about building scalable and secur
 - 🔹 A REST API for **validating phone numbers**.
 - 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 
-### 🏦 [PulseHub](https://pulsehub.synology.me:169/api/docs/) - **Enterprise API System**
-- 🔹 Backend system powering **PulseHub**, **CloudMate**, and **PulseFin**.
-- 🔹 Built with **Django, PostgreSQL, and Docker**.
+### 🌍 [PulseHub](https://pulsehub.synology.me:155/api/docs/) - **Enterprise API System**
+- 🔹 A REST API for **Manging Users System** powering **PulseHub**, **CloudMate**, and **PulseFin**.
+- 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 
+### 🌍 [CloudMate](https://pulsehub.synology.me:160/api/docs/) - **Enterprise API System**
+- 🔹 A REST API for **Monitor Constructions System**.
+- 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
+
+### 🌍 [PulseFin](https://pulsehub.synology.me:169/api/docs/) - **Enterprise API System**
+- 🔹 A REST API for **Managing Finances System**.
+- 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 ---
 
 ## 📫 **Contact Me**
 💌 **Email:** [mahmoudgshaker2018@gmail.com](mailto:mahmoudgshaker2018@gmail.com)  
 🔗 **LinkedIn:** [Mahmoud Gamal](https://www.linkedin.com/in/mahmoudgshaker/)  
-🌎 **Portfolio:** [GitHub Portfolio](https://github.com/MahmoudGShake)  
+🌎 **Portfolio:** [GitHub Portfolio](https://github.com/MahmoudGShake/Portfolio/blob/main/README.md)  
 
 ---
 
 ## 📊 **GitHub Stats**
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudGShake&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudGShake&layout=compact&theme=dark)
+
+---
+
+## 🚀 **Let's Collaborate!**
+I am open to **backend development roles, freelance projects, and collaborations**. Feel free to reach out!
