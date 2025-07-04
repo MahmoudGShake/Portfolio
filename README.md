@@ -32,19 +32,23 @@ I am a **Python Backend Developer** passionate about building scalable and secur
 - 🔹 A Python-based desktop app for scraping **Facebook** data and automating **WhatsApp messaging**.
 - 🔹 Built with **Custom Tkinter, Selenium, Requests**, and **MySQL**.
 
-### 🌍 [Num2Verify](https://num2verify-257001771451.us-central1.run.app/api/docs/) - **Phone Number Verification API**
+### 🌍 [Num2Verify](https://num2verify.alwaysdata.net/) - **Phone Number Verification API**
 - 🔹 A REST API for **validating phone numbers**.
 - 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 
-### 🌍 [PulseHub](https://pulsehub.synology.me:155/api/docs/) - **Enterprise API System**
+### 🌍 [PulseHub](https://b-pulsehub.dic-cloudmate.eu/api/docs/) - **Enterprise API System**
 - 🔹 A REST API for **Manging Users System** powering **PulseHub**, **CloudMate**, and **PulseFin**.
 - 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 
-### 🌍 [CloudMate](https://pulsehub.synology.me:160/api/docs/) - **Enterprise API System**
+### 🌍 [CloudMate](https://b-cloudmate.dic-cloudmate.eu/api/docs/) - **Enterprise API System**
 - 🔹 A REST API for **Monitor Constructions System**.
 - 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 
-### 🌍 [PulseFin](https://pulsehub.synology.me:169/api/docs/) - **Enterprise API System**
+### 🌍 [ProjectHub](https://b-projectshub.dic-cloudmate.eu/api/docs/) - **Enterprise API System**
+- 🔹 A REST API for **Managing Projects System**.
+- 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
+
+### 🌍 [PulseFin](https://b-pulsefin.dic-cloudmate.eu/api/docs/) - **Enterprise API System**
 - 🔹 A REST API for **Managing Finances System**.
 - 🔹 Built with **Django Rest Framework (DRF)** and **PostgreSQL**.
 ---
